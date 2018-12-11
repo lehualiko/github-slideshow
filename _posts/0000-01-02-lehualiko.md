@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+You are never wrong to do the right thing
 Use the left arrow to go back!
